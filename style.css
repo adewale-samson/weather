@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background: grey;
+    font-weight: 400;
+    color: aliceblue;
+}
+.weather{
+    text-align: center;
+    font-size: 30px;
+    font-family: Poppins, sans-serif;
+    margin-top: 100px;
+    
+}
